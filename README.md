@@ -27,6 +27,10 @@ Hi there! I'm a passionate **Software Engineering student** who loves turning id
     <td><img src="Upwork 2.png" width="400"/></td>
     <td><img src="Dribble post 2.png" width="400"/></td>
   </tr>
+ <tr>
+    <td><img src="booksite.png" width="400"/></td>
+    <td><img src="kuranga1.png" width="400"/></td>
+  </tr>
 </table>
 
 <p align="center">
@@ -46,4 +50,7 @@ Hi there! I'm a passionate **Software Engineering student** who loves turning id
 
 </br>
 </br>
+<p align="center">
+<img src="qoute.png" width=""600/>  
+</p>
 
