@@ -2,4 +2,4 @@
 
 I'm a Software Engineer who enjoys turning ideas into useful, well-crafted software. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/celse-mizeromahire-069421178) . [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mizeromahirecelse@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/celse-mizeromahire-069421178)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mizeromahirecelse@gmail.com) 
