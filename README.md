@@ -1,3 +1,1 @@
-_Carpe Diem_
-
-On a journey to find understanding and meaning
+###### _carpe diem, quam minimum credula postero._
